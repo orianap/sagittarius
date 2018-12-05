@@ -1,6 +1,6 @@
 # sagittarius
 
-## How to build and run project
+## How to clone and run the tests
 Required tools
 * Git
 * JDK8
@@ -10,6 +10,7 @@ Required tools
 #### Clone project using git bash:
 ```sh
 git clone https://github.com/orianap/sagittarius.git
+```
 
 #### Run tests from any console from command line:
 Run it with `mvn clean test` in project's root.
